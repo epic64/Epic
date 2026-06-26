@@ -47,7 +47,7 @@ Options:
   -bios <path>    Custom firmware path
   -serial <mode>  Serial backend: stdio, file:<path>, none
   -cmdline <str>  Override the Linux kernel command line
-  -kernel <path>  Direct-boot an IA-64 kernel (PE32+ vmlinuz)
+  -kernel <path>  Direct-boot an IA-64 kernel (PE32+ vmlinuz) (not recommended for real usage!!)
   -initrd <path>  Initrd file (for -kernel boot)
   -trace          Enable trace-level logging
   -test           Run validation tests
