@@ -2,7 +2,6 @@
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
   <a href="https://wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/language-C-blue.svg" alt="Language: C"></a>
   <img src="https://img.shields.io/badge/platform-cross--platform-lightgrey.svg" alt="Platform: Cross-Platform">
-  <h4>thats actually a lie for now</h4>
 </p>
 
 # Epic! - A full-system Intel IA-64 (Itanium) emulator.
